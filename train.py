@@ -65,11 +65,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y,
                                     test_size=0.3, random_state=SEED)
 
 
-# Modelling with Grid Search Cross-Validation        
+# Modeling with Grid Search Cross-Validation        
 
 #____________________________Logistic Regression________________________#
 # using Grid Search Cross-Validation
-lr = LogisticRegression(SEED)
+lr = LogisticRegression(random_state=SEED)
 lr_param_grid = {
     'C': [100, 10, 1.0, 0.1, 0.01],
     'penalty': ['l1', 'l2'],
