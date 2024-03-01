@@ -18,7 +18,7 @@ mlflow.set_tracking_uri('http://localhost:5000')
 # Reading the data
 data = pd.read_csv("loan_data_set 3.csv")
 
-# Load dataset and capture numertical and categorical columns
+# Load dataset and capture numerical and categorical columns
 num_col = data.select_dtypes(include=['int64', 'float64']).columns.tolist()
 cat_col = data.select_dtypes(include=['object']).columns.tolist()
 
@@ -32,7 +32,7 @@ for col in cat_col:
 for col in num_col:
     data[col].fillna(data[col].median(), inplace=True)
 
-# Clip Extreme Values to the 5th and 9th Percentile for
+# Clip Extreme Values to the 5th and 95th Percentile for
 # numerical data
 data[num_col] = data[num_col].apply(lambda x: x.clip(*x.quantile([0.05, 0.95])))
 

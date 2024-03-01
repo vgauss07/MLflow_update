@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rev.dr.sylviablessings/MLflow_update/mlruns/0/dacc380583c6499eb7a48bd8da5f3a87/artifacts
+deleted_time: 1707491519076
+end_time: 1707491476543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dacc380583c6499eb7a48bd8da5f3a87
+run_name: DecisionTreeClassifier
+run_uuid: dacc380583c6499eb7a48bd8da5f3a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707491476029
+status: 4
+tags: []
+user_id: rev.dr.sylviablessings

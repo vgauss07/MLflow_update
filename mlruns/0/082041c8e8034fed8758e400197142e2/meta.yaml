@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rev.dr.sylviablessings/MLflow_update/mlruns/0/082041c8e8034fed8758e400197142e2/artifacts
+end_time: 1707299164077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 082041c8e8034fed8758e400197142e2
+run_name: DecisionTreeClassifier
+run_uuid: 082041c8e8034fed8758e400197142e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707299158785
+status: 3
+tags: []
+user_id: rev.dr.sylviablessings

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rev.dr.sylviablessings/MLflow_update/mlruns/0/c4456a4850524a818150baf3d336d77d/artifacts
+end_time: 1707299606450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4456a4850524a818150baf3d336d77d
+run_name: LogisticRegression
+run_uuid: c4456a4850524a818150baf3d336d77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707299604391
+status: 3
+tags: []
+user_id: rev.dr.sylviablessings

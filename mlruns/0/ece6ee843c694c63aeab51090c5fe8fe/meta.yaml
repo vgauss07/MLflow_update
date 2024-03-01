@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rev.dr.sylviablessings/MLflow_update/mlruns/0/ece6ee843c694c63aeab51090c5fe8fe/artifacts
+end_time: 1707299608726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ece6ee843c694c63aeab51090c5fe8fe
+run_name: RandomForestClassifier
+run_uuid: ece6ee843c694c63aeab51090c5fe8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707299606461
+status: 3
+tags: []
+user_id: rev.dr.sylviablessings
